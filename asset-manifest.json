@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/minimal-sudoku/static/js/main.b6a27b9a.chunk.js",
+    "main.js.map": "/minimal-sudoku/static/js/main.b6a27b9a.chunk.js.map",
+    "runtime-main.js": "/minimal-sudoku/static/js/runtime-main.736ac545.js",
+    "runtime-main.js.map": "/minimal-sudoku/static/js/runtime-main.736ac545.js.map",
+    "static/js/2.e297e832.chunk.js": "/minimal-sudoku/static/js/2.e297e832.chunk.js",
+    "static/js/2.e297e832.chunk.js.map": "/minimal-sudoku/static/js/2.e297e832.chunk.js.map",
+    "static/js/3.eb8b2f7c.chunk.js": "/minimal-sudoku/static/js/3.eb8b2f7c.chunk.js",
+    "02f13baaec9fd93d2c1f.module.wasm": "/minimal-sudoku/02f13baaec9fd93d2c1f.module.wasm",
+    "static/js/3.eb8b2f7c.chunk.js.map": "/minimal-sudoku/static/js/3.eb8b2f7c.chunk.js.map",
+    "b3d4f08e307c222bddef.module.wasm": "/minimal-sudoku/b3d4f08e307c222bddef.module.wasm",
+    "index.html": "/minimal-sudoku/index.html",
+    "precache-manifest.9f2aff29c04541c176becb5661381f5e.js": "/minimal-sudoku/precache-manifest.9f2aff29c04541c176becb5661381f5e.js",
+    "service-worker.js": "/minimal-sudoku/service-worker.js",
+    "static/js/1.9afa6863.chunk.worker.js": "/minimal-sudoku/static/js/1.9afa6863.chunk.worker.js",
+    "static/js/1.9afa6863.chunk.worker.js.map": "/minimal-sudoku/static/js/1.9afa6863.chunk.worker.js.map",
+    "static/js/2.e297e832.chunk.js.LICENSE.txt": "/minimal-sudoku/static/js/2.e297e832.chunk.js.LICENSE.txt",
+    "static/js/sudoku.worker.25219f27.worker.js": "/minimal-sudoku/static/js/sudoku.worker.25219f27.worker.js",
+    "static/js/sudoku.worker.25219f27.worker.js.map": "/minimal-sudoku/static/js/sudoku.worker.25219f27.worker.js.map",
+    "static/media/moon.3afcf0e0.svg": "/minimal-sudoku/static/media/moon.3afcf0e0.svg",
+    "static/media/sun.fe4053b9.svg": "/minimal-sudoku/static/media/sun.fe4053b9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.736ac545.js",
+    "static/js/2.e297e832.chunk.js",
+    "static/js/main.b6a27b9a.chunk.js"
+  ]
+}
